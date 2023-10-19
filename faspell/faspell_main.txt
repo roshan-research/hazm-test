@@ -1,0 +1,4 @@
+#misspelt	corrected	error-category
+آاهي	آگاهي	1
+آبات	آیات	1
+آبباشد	آب باشد	2
